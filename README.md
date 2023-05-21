@@ -32,9 +32,6 @@
   F5 - полный перезапуск уровня.
   F3 - (для проверки) вызвать краш игры.
 
-**Видео:**</br>
-[![Видео](https://i9.ytimg.com/vi/Xm8oygugeiw/mqdefault.jpg?v=629375d1&sqp=CLyIqKMG&rs=AOn4CLDir2GA09cPY0VkEmEp1Z1nnEpX5w)](https://www.youtube.com/watch?v=Xm8oygugeiw)
-
 **Материалы и команда разработки:**</br>
 - Проект – Глазунов Никита</br>
 - Мотивация и поддержка – Ложков Кирилл Германович</br>
